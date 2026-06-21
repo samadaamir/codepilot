@@ -6,3 +6,7 @@
   height: 100%;
   touch-action: none;
 }
+.light-theme {
+  background: #ffffff;
+  color: #111827;
+}
