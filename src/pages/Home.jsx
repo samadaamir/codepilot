@@ -38,10 +38,10 @@ const Home = () => {
                 <div className='text-white inset-0 gap-8 flex'>
                     <button 
                     onClick={()=>navigate('/Editorpage')}
-                    className='bg-zinc-700 py-3 px-5 rounded font-bold'>Get Started</button>
+                    className='bg-white py-3 px-5 rounded text-black font-bold'>Get Started</button>
                     <button 
                     onClick={()=>navigate('/Features')}
-                    className='bg-zinc-700 py-3 px-5 rounded font-bold'>Explore Features</button>
+                    className='bg-white py-3 px-5 rounded text-black font-bold'>Explore Features</button>
                 </div>
             </div>
 
